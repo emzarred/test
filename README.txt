@@ -1,0 +1,1 @@
+Ce code est un jeu de dé qui permet de choisir un type de dé (dé de 6 faces ou dé de 20 faces) et jouer pour déminuer le stress
